@@ -1,3 +1,6 @@
+-------This Script is written by UndeadSec-------
+Please use this script for educational purpose only.
+
 ------------For Android Devices(Termux)------------
 
 pkg update
