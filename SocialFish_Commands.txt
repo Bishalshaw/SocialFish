@@ -1,0 +1,24 @@
+------------For Android Devices(Termux)------------
+
+pkg update
+pkg upgrade
+pkg install python php tsu git
+git clone https://github.com/bishalshaw/Socialfish.git
+cd Socialfish/
+chmod +x *
+ls (check if it is green in color)
+python get-pip.py
+pip install -r requirements.txt
+python Socialfish.py
+
+
+
+------------For Desktop (Kali Linux PC )-----------
+
+git clone https://github.com/bishalshaw/Socialfish.git
+cd Socialfish/
+chmod +x *
+ls (check if it is green in color)
+python3 get-pip.py
+pip3 install -r requirements.txt
+python3 Socialfish.py
